@@ -1,0 +1,426 @@
+p
+{
+    font-family: sans-serif;
+}
+li{
+    text-decoration: none;
+}
+#tidal
+{
+    font-size: 1.6em;
+}
+nav
+{
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+    padding: 10px;
+}
+.btn-dark 
+{
+    color: white;
+}
+button:hover
+{
+    background-color: gray;
+}
+.lien
+{
+    text-decoration: none;
+    color: black;
+}
+.lien:hover
+{
+    text-decoration: underline;
+    color: black;
+}
+#blanc
+{
+    border: 1px white solid;
+    border-radius: 5px;
+}
+#blanc:hover
+{
+    background-color: black;
+    opacity: 0.5;
+}
+.blanc
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.blanc:hover
+{
+    color: black;
+}
+#bloc1
+{
+    height: 90vh;
+    background-color: rgb(0, 0, 0, 0.86);
+}
+#marge-à-gauche
+{
+    margin-left: 16vh;
+}
+h1
+{
+    font-family: Impact;
+
+}
+.début
+{
+    color: #f7dfd3;
+    font-size: 1em;
+}
+.milieu
+{
+    color: #f7dfd3;
+    font-size: 2.5em;
+}
+.fin
+{
+    color: #ed944a;
+    font-size: 1em;
+}
+
+#image
+{
+    height: 90vh;
+    background-image: url("./tidal.jpg");
+    background-size: cover;
+}
+.essai
+{
+    color: #f7dfd3;
+    font-size: 0.9em;
+}
+#pad
+{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    color: beige;
+}
+#bloc2
+{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(34,16,0,1) 58%, rgba(95,46,0,1) 100%);
+}
+#noir
+{
+    height: 120vh;
+}
+#dégradé
+{
+    height: 120vh;
+  padding-top: 15vh;
+}
+.gros
+{
+    font-size: 1em;
+    font-weight: bold;
+}
+.moyen
+{
+    font-size: 0.8em;
+    font-weight: bold;
+}
+.petit
+{
+    font-size: 0.7em;
+}
+.box
+{
+    /* fallback for old browsers */
+    background: #ec9148;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to top, rgba(236, 145, 72, 1), rgba(255, 196, 136, 1));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to top, rgba(236, 145, 72, 1), rgba(255, 196, 136, 1))
+}
+.box
+{
+    border-radius: 20px;
+    padding: 10vh;
+    color: #46160b;
+    max-width: 70%;
+    font-family: sans-serif;
+}
+.box2
+{
+    margin-top: 30vh;
+    margin-left: 15vh;
+    background-color: #f7dfd3;
+    color: #46271c;
+    border-radius: 20px 0% 0% 20px;
+    padding-right: 10vh;
+    padding-top: 9vh;
+    padding-bottom: 9vh;
+    padding-left: 5vh;
+}
+.beige
+{
+    color: beige;
+}
+.abonnez
+{
+    font-size: 2.5em;
+    font-weight: normal;
+}
+.résilier
+{
+    font-size: 0.8em;
+    font-family: normal;
+    padding-left: 1vh;
+}
+#btn:hover
+{
+    background: #f7dfd3;
+    opacity: 0.5;
+}
+#bloc3
+{
+    background-color: black;
+    height: 64vh;
+}
+.grand-blanc
+{
+    font-size: 3em;
+    color: white;
+}
+.grand-orange
+{
+    font-size: 3em;
+    color: #ed944a;
+}
+.petit-blanc
+{
+    font-size: 1.1em;
+    color: white;
+}
+.écrit
+{
+    margin-top: 15vh;
+}
+video
+{
+    max-width: 80%;
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+#fond-noir
+{
+    background-color: black;
+    height: 75vh;
+}
+.écrit2
+{
+    margin-left: 10vh;
+    margin-top: 25vh;
+}
+#img
+{
+    height: 75vh;
+    background-image: url("tidal3.jpg");
+    background-size: cover;
+}
+#bloc5
+{
+    background-color: #2a2a2a;
+    height: 85vh;
+}
+.écrit3
+{
+    margin-top: 15vh;
+    margin-left: 3vh;
+}
+.petite-marge
+{
+    margin-left: 3vh;
+    margin-top: 7vh;
+}
+#smartphone
+{
+    height: 60vh;
+    margin-top: 13vh;
+    margin-left: 15vh;
+}
+#noir2
+{
+    background-color: black;
+    height: 95vh;
+}
+#dégradé2
+{
+    /* fallback for old browsers */
+    background: #000000;
+
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(0, 0, 0, 1), rgba(138, 73, 0, 1));
+
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(138, 73, 0, 1));
+    height: 95vh;
+}
+.écrit4
+{
+    margin-top: 35vh;
+    margin-left: 7vh;
+}
+#image2
+{
+    height: 72vh;
+    margin-top: 13vh;
+    margin-left: 12vh;
+}
+#bloc7
+{
+    background-image: linear-gradient(211.47deg,#ed944a 22.16%,#f16d00 122.12%);
+    height: 63vh;
+}
+#centré
+{
+    text-align: center;
+    padding-top: 15vh;
+}
+.écrit5
+{
+    font-size: 4.5em;
+    font-weight: bold;
+}
+.très-grand-blanc
+{
+    color: white;
+}
+.grand-marron
+{
+    color: #9a3300;
+}
+.white
+{
+    color: white;
+}
+footer
+{
+    height: 123vh;
+    background-color: black;
+}
+.titre
+{
+    color: #9b9b9b;
+    margin-left: 5vh;
+}
+.lien2
+{
+    color: white;
+    text-decoration: none;
+}
+.lien2:hover
+{
+    text-decoration: underline;
+    color: #0ff;
+}
+#truc
+{
+    width: 30vh;
+    height: auto;
+}
+#margeduhaut
+{
+    padding-top: 15vh;
+}
+#margecôté
+{
+    margin-left: 13vh;
+    margin-right: 7vh;
+}
+.bleuclaire
+{
+    color: #0ff;
+    margin-top: 30vh;
+}
+#boutonfooter
+{
+    margin-top: 7vh;
+    margin-right: 8.6vh;
+    border: 1px #0ff solid;
+    border-radius: 5px;
+    padding-right: none;
+}
+.gris-clair
+{
+    color: #9b9b9b;
+    font-size: 0.8em;
+}
+#finfooter
+{
+    margin-left: 15vh;
+    margin-right: 15vh;
+    margin-top: 10vh;
+}
+#borderbottom
+{
+    border-bottom: 1px #9b9b9b solid;
+}
+#flex
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#logotwitter
+{
+    height: 5vh;
+    width: auto;
+    color: #9b9b9b;
+}
+#logoinstagram
+{
+    height: 5vh;
+    width: auto;
+    color: #9b9b9b;
+}
+#logofacebook
+{
+    height: 3vh;
+    width: auto;
+    color: #9b9b9b;
+}
+#logoyoutub
+{
+    height: 5vh;
+    width: auto;
+    color: #9b9b9b;
+
+}
+#logotiktok
+{
+    height: 5vh;
+    width: auto;
+    color: #9b9b9b;
+}
+#margehaut
+{
+    margin-top: 5vh;
+}
+#langue
+{
+    font-weight: bold;
+    color: white;
+}
+.lien3
+{
+    color: white;
+    text-decoration: none;
+    font-size: 0.8em;
+}
+.lien3:hover
+{
+    text-decoration: underline;
+    color: #0ff;
+}
